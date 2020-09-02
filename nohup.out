@@ -1,0 +1,51 @@
+Laravel development server started: <http://127.0.0.1:8000>
+[Tue Jul  7 10:28:38 2020] 127.0.0.1:50757 [200]: /favicon.ico
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Could not open input file: serve
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+[Wed Aug  5 04:07:26 2020] 127.0.0.1:49495 [200]: /favicon.ico
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+[Fri Aug 14 09:23:42 2020] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+Laravel development server started: <http://127.0.0.1:8000>
+[2020-08-31 07:01:31] Processing: App\Listeners\EventSubscriber
+[2020-08-31 14:01:32] Processed:  App\Listeners\EventSubscriber
+[2020-08-31 07:04:07] Processing: App\Listeners\EventSubscriber
+[2020-08-31 14:04:07] Processed:  App\Listeners\EventSubscriber
+[2020-08-31 14:05:20] Processing: App\Listeners\EventSubscriber
+[2020-08-31 14:05:22] Processed:  App\Listeners\EventSubscriber
+[2020-09-01 02:12:10] Processing: App\Listeners\EventSubscriber
+[2020-09-01 09:12:11] Processed:  App\Listeners\EventSubscriber
+[2020-09-01 09:12:11] Processing: App\Listeners\EventSubscriber
+[2020-09-01 09:12:12] Processed:  App\Listeners\EventSubscriber
+[2020-09-01 02:32:03] Processing: App\Listeners\EventSubscriber
+[2020-09-01 09:32:04] Processed:  App\Listeners\EventSubscriber
+[2020-09-01 09:32:55] Processing: App\Listeners\EventSubscriber
+[2020-09-01 09:33:01] Processed:  App\Listeners\EventSubscriber
